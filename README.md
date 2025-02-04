@@ -45,13 +45,13 @@ Fixed-income markets and interest rates play a crucial role in **macroeconomics,
 
 ---
 
-##**📊 Usage**
+## **📊 Usage**
 Once the dashboard is running, you can:
 
-✔️ View the latest yield curves and their fitted models
-✔️ Compare corporate bond yields against risk-free Treasury yields
-✔️ Analyze credit spreads across different maturities
-✔️ Detect yield curve inversion using the 10Y-2Y spread analysis
+- ✔️ View the latest yield curves and their fitted models
+- ✔️ Compare corporate bond yields against risk-free Treasury yields
+- ✔️ Analyze credit spreads across different maturities
+- ✔️ Detect yield curve inversion using the 10Y-2Y spread analysis
 
 ---
 
