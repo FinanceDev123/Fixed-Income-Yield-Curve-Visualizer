@@ -47,6 +47,10 @@ Fixed-income markets and interest rates play a crucial role in **macroeconomics,
 
 ## 🔧 **Installation & Setup**  
 
+### **📌 Set Up Your FRED API Key** 
+Get an API key from FRED
+Replace **YOUR_API_KEY** in the script with your actual key
+
 ### **📌 Prerequisites**  
 Ensure you have **Python 3.x** installed along with the required dependencies:  
 
