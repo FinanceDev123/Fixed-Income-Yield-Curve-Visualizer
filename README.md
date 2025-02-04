@@ -1,6 +1,6 @@
 # 📈 Yield Curve Analysis Dashboard 💹  
 
-This project is a **Yield Curve Analysis Dashboard** that provides an **interactive visualization of U.S. Treasury yields, corporate bond yields, and credit spreads**. The goal is to **help traders, analysts, and researchers analyze yield curve trends, detect inversions, and simulate economic scenarios.**  
+This project is a **Yield Curve Analysis Dashboard** that provides an **interactive visualization of U.S. Treasury yields, corporate bond yields, and credit spreads**. The goal is to **help traders, analysts, and researchers analyze yield curve trends, and detect inversions.**  
 
 ---
 
@@ -13,7 +13,6 @@ Fixed-income markets and interest rates play a crucial role in **macroeconomics,
 ✅ **Fit yield curves using Spline and Nelson-Siegel models** for better visualization  
 ✅ **Analyze credit spreads** to compare risk-free and corporate bond yields  
 ✅ **Perform 10Y-2Y spread analysis** to detect **yield curve inversions**  
-✅ **Use scenario analysis tools** to simulate yield shifts and credit spread widening  
 
 ---
 
@@ -43,10 +42,6 @@ Fixed-income markets and interest rates play a crucial role in **macroeconomics,
 ### **5️⃣ 10Y-2Y Yield Spread & Inversion Detection** 📅  
 - Computes and visualizes the **10-year minus 2-year yield spread**, a key **recession indicator**  
 - **Color-coded signal:** Alerts when the yield curve is **normal** (positive spread) or **inverted** (negative spread)  
-
-### **6️⃣ Scenario Analysis (What-If Tool)** 📑  
-- **Manually adjust Treasury yields and credit spreads** to simulate different market conditions  
-- Conduct **"what-if" analysis**, including **rate hikes, economic downturns, or credit risk fluctuations**  
 
 ---
 
